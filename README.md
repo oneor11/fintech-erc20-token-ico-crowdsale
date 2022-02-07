@@ -50,7 +50,7 @@ To run completely locally, this demo requires a functioning Remix development en
 
     **Figure 4: MetaMask network configuration for Ganache:**
 
-   ![screenshot of MetaMask network configuration](images/A025_metamask_network_config.png)
+   ![screenshot of MetaMask network configuration](images/A025_metamask_network_config.PNG)
 
 1. Ensure MetaMask is set to the new *Ethereum Local* network. Import three accounts from the running instance of Ganache into MetaMask.  This can be accomplished by clicking the key icon next to a Ganache account, copying the private key, and importing it into MetaMask as a new account. To help easily distinguish the accounts, rename the accounts in MetaMask to MARS-1, MARS-2, and MARS-3.  Ensure your MetaMask is set to MARS-1.
 
