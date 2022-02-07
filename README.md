@@ -86,7 +86,7 @@ To run completely locally, this demo requires a functioning Remix development en
 1. Next the *KaseCoinCrowdsale* contract will need to be visible in Remix so that you can interact with it.  The *KaseiCoinCrowdsaleDeployer* deployed this contract so you will need to import it by the contract's address on the live blockchain, which can be found by clicking the *KaseiCrowdSale* button (the first one) and copying the address presented and pasting it into the *At Address* input box in Remix.  Successful import will present the *KaseiCoinCrowdsale* pane in Remix's *Deployed Contracts* section. Note you may need to have the *KaseiCrowdSale* contract selected in the *Contracts* dropdown list.
 
     **Figure 10: KaseiCoinCrowdsale and KaseiCoin contract addresses from successful KaseiCoinCrowdsaleDeployer deployment:**
-    ![screenshot of deployed KaseiCoinCrowdsale address](images\A008_deploy_remix_addresses.PNG)
+    ![screenshot of deployed KaseiCoinCrowdsale address](images/A008_deploy_remix_addresses.PNG)
 
 ## Workflows
 
