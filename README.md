@@ -1,4 +1,4 @@
-# Deployment and Crowdsale of Ethereum Standard Contract for ICO
+# Deployment and Crowdsale of Ethereum Standard Contract for Initial Coin Offering (ICO)
 
 This respository contains a demo example of the creation of an ERC-20 token smart contract utilizing Ethereum standards implemented through the use of OpenZeppelin Solidity libraries such as SafeMath, ERC20, ERC20Detailed, Crowdsale, MintedCrowdsale, TimedCrowdSale, and RefundablePostDeliveryCrowdsale.  
 
